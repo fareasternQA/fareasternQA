@@ -42,9 +42,9 @@ AI-powered automated Job Search, Resume Tailor, and Auto-Apply platform
 
 **Links to my CV**
 
-📄 [Google Docs](https://docs.google.com/document/d/18bMKBz2aoMn8CW5Tn0xa6CxDcqXOV4cF_EPfidyrj24/edit?usp=sharing)   
+📄 [Google Docs](https://docs.google.com/document/d/1d1eIBqTjqNdS1Nc0DsToxv0ZmLNGDulx/edit?usp=sharing&ouid=104071092538694063236&rtpof=true&sd=true) 
 
-📄 [PDF](https://drive.google.com/file/d/1RW1Fc7tIIkM9fFgblMhrOo-sVsGvItPh/view?usp=sharing)
+📄 [PDF](https://drive.google.com/file/d/1Oast8TYzqSj3BXIapqqF3SjoOfTGXjOh/view?usp=sharing)
 
 --- 
 ### Thanks a lot! ☺️
