@@ -14,7 +14,7 @@ Tracking, Functional & Non-functional Testing, Exploratory Testing, Black Box Te
 
 ## 🛠 Experience
 #### **Software QA Engineer**  
-**[JobSolv, Inc.](https://www.jobsolv.com/) | Oct 2024 — Apr 2025 | Austin, TX**  
+**[JobSolv](https://www.jobsolv.com/) | Oct 2024 — Apr 2025 | Austin, TX**  
 Career SaaS start-up | AI-powered automated Job Search, Resume Tailor, and Auto-Apply platform
 
 - Designed and implemented test frameworks for UI, API, and AI modules from the ground up, 
