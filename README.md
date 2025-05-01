@@ -54,7 +54,7 @@ significant enhancements that shaped future development.
 
 📄 [Google Docs](https://docs.google.com/document/d/1FYNMcSp0o0U4_ym8XkFpOOUc2FPv99aO/edit?usp=sharing&ouid=104071092538694063236&rtpof=true&sd=true) 
 
-📄 [PDF](https://drive.google.com/file/d/1gyeoAK9N68OTy8hpv9hT5WhToaAM8iEa/view?usp=drive_link)
+📄 [PDF](https://drive.google.com/file/d/1rIe56-sEFiFpeXtmkGvQMHCf1VOvrrnm/view?usp=drive_link)
 
 --- 
 ### Thanks a lot! ☺️
